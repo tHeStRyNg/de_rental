@@ -31,15 +31,15 @@ function Loading() {
             className="d-none d-md-flex justify-content-between align-items-center my-4"
           >
             <div>
-              <h5 className="fw-bold fs-1">12K+</h5>
+              <h5 className="gray-100">12K+</h5>
               <span className="gray-100">properties</span>
             </div>
             <div>
-              <h5 className="fw-bold fs-1">10K+</h5>
+              <h5 className="gray-100">10K+</h5>
               <span className="gray-100">auction</span>
             </div>
             <div>
-              <h5 className="fw-bold fs-1">12K+</h5>
+              <h5 className="gray-100">12K+</h5>
               <span className="gray-100">developers</span>
             </div>
           </div>
@@ -109,15 +109,15 @@ function Loading() {
           className="d-md-none d-flex justify-content-between align-items-center my-4 features"
         >
           <div>
-            <h5 className="fw-bold fs-1">12K+</h5>
+            <h5 className="gray-100">12K+</h5>
             <span className="gray-100">properties</span>
           </div>
           <div>
-            <h5 className="fw-bold fs-1">10K+</h5>
+            <h5 className="gray-100">10K+</h5>
             <span className="gray-100">auction</span>
           </div>
           <div>
-            <h5 className="fw-bold fs-1">12K+</h5>
+            <h5 className="gray-100">12K+</h5>
             <span className="gray-100">developers</span>
           </div>
         </motion.div>
