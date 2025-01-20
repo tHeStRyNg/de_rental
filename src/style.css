@@ -446,7 +446,7 @@ body {
 }
 
 .subscribe .container div {
-  border: 1px solid #545b79;
+  border: 1px solid var(--text-color);
   border-radius: 7px;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
