@@ -8,6 +8,9 @@
   --text-color: #ffffff;
 }
 
+svg{ fill:#1a1a1a;}
+.dark svg {fill:#ffffff;}
+
 .navbar {
   background-color: var(--bg-color);
   color: var(--text-color);
