@@ -4,9 +4,23 @@ import Navbar from "react-bootstrap/Navbar";
 import logo from "../../images/logo/logo.png";
 import { Button } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { useState, useEffect } from 'react';
 import "./navbar.css";
 
 function NavBar() {
+  const [theme, setTheme] = useState(localStorage.getItem('theme') || 'light');
+
+  const toggleTheme = () => {
+      const newTheme = theme === 'light' ? 'dark' : 'light';
+      setTheme(newTheme);
+      localStorage.setItem('theme', newTheme);
+      document.documentElement.setAttribute('data-theme', newTheme);
+  };
+
+  useEffect(() => {
+      document.documentElement.setAttribute('data-theme', theme);
+  }, [theme]);
+
   return (
     <Navbar expand="lg" className="py-3">
       <Container>
@@ -22,6 +36,12 @@ function NavBar() {
             </Nav.Link>
             <Nav.Link href="#action3">Developers</Nav.Link>
           </Nav>
+          <nav className="navbar">
+
+    <button onClick={toggleTheme}>
+        {theme === 'dark' ? 'Light Mode' : 'Dark Mode'}
+    </button>
+</nav>
         </Navbar.Collapse>
         <div className="d-flex align-items-center order">
           <span className="line d-lg-inline-block d-none"></span>
@@ -37,5 +57,5 @@ function NavBar() {
     </Navbar>
   );
 }
-
 export default NavBar;
+
