@@ -489,7 +489,7 @@ footer .container div ul li {
 }
 
 footer .container div ul li:hover {
-  color: #a8a8a8;
+  color: var(--text-color);
 }
 
 footer .container div:has(img) {
@@ -497,7 +497,7 @@ footer .container div:has(img) {
 }
 
 footer .container div:has(p a) {
-  border-top: 1px solid #1b1f33;
+  border-top: 1px solid color var(--text-color);
 }
 
 footer .container div ul:first-child {
