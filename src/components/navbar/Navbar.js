@@ -24,14 +24,14 @@ function NavBar() {
   return (
     <Navbar expand="lg" className="py-3">
       <Container>
-        <Navbar.Brand href="#" className="me-lg-5">
-          <img className="logo" src={logo} alt="logo" />
+        <Navbar.Brand href="#" className="gray-100">
+          <img className="gray-100" src={logo} alt="logo" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
-          <Nav className="me-auto my-2 my-lg-0" navbarScroll>
+          <Nav className="gray-100" navbarScroll>
             <Nav.Link href="#action1">Marketplace</Nav.Link>
-            <Nav.Link href="#action2" className="px-lg-3">
+            <Nav.Link href="#action2" className="gray-100">
               About Us
             </Nav.Link>
             <Nav.Link href="#action3">Developers</Nav.Link>
