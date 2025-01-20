@@ -141,7 +141,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">
+                  <h5 className="mt-2 gray-90 fw-normal">
                     Cottage «Forrest 1»
                   </h5>
                   <p className="gray-90">@Red Oak Realty</p>
@@ -151,7 +151,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">29.71 ETH</h6>
+                      <h6 className="gray-90">29.71 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -173,7 +173,7 @@ function Properties() {
                       onClick={like}
                     ></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Freshness</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Freshness</h5>
                   <p className="gray-90">@ERA Ukraine Real Estate</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -181,7 +181,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">14.81 ETH</h6>
+                      <h6 className="gray-90">14.81 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -200,7 +200,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Wish house</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Wish house</h5>
                   <p className="gray-90">@UA real estate agency</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -208,7 +208,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">16.62 ETH</h6>
+                      <h6 className="gray-90">16.62 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -227,7 +227,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Spruce</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Spruce</h5>
                   <p className="gray-90">@Dream House</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -235,7 +235,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">17.01 ETH</h6>
+                      <h6 className="gray-90">17.01 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -254,7 +254,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Residence Rybna</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Residence Rybna</h5>
                   <p className="gray-90">@UA real estate agency</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -262,7 +262,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">29.71 ETH</h6>
+                      <h6 className="gray-90">29.71 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -281,7 +281,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Blue Sky</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Blue Sky</h5>
                   <p className="gray-90">@ERA Ukraine Real Estate</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -289,7 +289,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">17.31 ETH</h6>
+                      <h6 className="gray-90">17.31 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -308,7 +308,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">
+                  <h5 className="mt-2 gray-90 fw-normal">
                     Cottage «Forrest 1»
                   </h5>
                   <p className="gray-90">@Red Oak Realty</p>
@@ -318,7 +318,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">29.71 ETH</h6>
+                      <h6 className="gray-90">29.71 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -340,7 +340,7 @@ function Properties() {
                       onClick={like}
                     ></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Freshness</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Freshness</h5>
                   <p className="gray-90">@ERA Ukraine Real Estate</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -348,7 +348,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">14.81 ETH</h6>
+                      <h6 className="gray-90">14.81 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -367,7 +367,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Wish house</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Wish house</h5>
                   <p className="gray-90">@UA real estate agency</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -375,7 +375,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">16.62 ETH</h6>
+                      <h6 className="gray-90">16.62 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -394,7 +394,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Spruce</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Spruce</h5>
                   <p className="gray-90">@Dream House</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -402,7 +402,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">17.01 ETH</h6>
+                      <h6 className="gray-90">17.01 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -421,7 +421,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Residence Rybna</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Residence Rybna</h5>
                   <p className="gray-90">@UA real estate agency</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -429,7 +429,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">29.71 ETH</h6>
+                      <h6 className="gray-90">29.71 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>
@@ -448,7 +448,7 @@ function Properties() {
                     />
                     <i className="fa-regular fa-heart like" onClick={like}></i>
                   </div>
-                  <h5 className="mt-2 text-white fw-normal">Blue Sky</h5>
+                  <h5 className="mt-2 gray-90 fw-normal">Blue Sky</h5>
                   <p className="gray-90">@ERA Ukraine Real Estate</p>
                   <div className="d-flex">
                     <div className="me-3">
@@ -456,7 +456,7 @@ function Properties() {
                       <span className="gray-90">Remaining Time</span>
                     </div>
                     <div>
-                      <h6 className="text-white">17.31 ETH</h6>
+                      <h6 className="gray-90">17.31 ETH</h6>
                       <span className="gray-90">Current Bid</span>
                     </div>
                   </div>

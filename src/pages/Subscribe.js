@@ -15,7 +15,7 @@ function Subscribe() {
         <div className="d-flex justify-content-between align-items-center mx-auto p-1">
           <input
             placeholder="Enter Your Email"
-            className="bg-transparent border-0 text-white ps-1 w-100"
+            className="bg-transparent border-0 gray-90 ps-1 w-100"
           />
           <Button className="m-0">Subscribe</Button>
         </div>
