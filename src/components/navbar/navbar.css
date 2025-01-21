@@ -117,4 +117,5 @@ svg{ fill:#1a1a1a;}
   }
 }
 
-svg { fill=currentColor }
+svg{ fill:black;}
+.dark svg {fill:white;}
