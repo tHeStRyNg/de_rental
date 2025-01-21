@@ -1,4 +1,4 @@
-#### Dev Test Project with the scope of creating a Light and Dark Mode based on NPM with React
+#### Dev Test Project with the scope of creating a Light and Dark Mode based on NPM with React with SVGs
 
 #### ScreenShot Dark Mode
 ![image](https://github.com/user-attachments/assets/cab91e34-0c1e-4ad4-8fe9-12d3f036959a)
