@@ -116,7 +116,7 @@ svg{ fill:#1a1a1a;}
     order: -1;
   }
 }
-@media (prefers-color-scheme: white) {
+@media (prefers-color-scheme: dark) {
   .spinner {
     filter: invert(1) brightness(2);
   }
