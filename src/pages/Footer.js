@@ -14,9 +14,9 @@ function Footer() {
             <img
               src={require("../images/logo/logo.png")}
               alt="logo"
-              className="dark"
+              className="gray-100"
             />
-            <p className="dark">
+            <p className="gray-100">
               Please contact us if you have any specific <br /> idea or request.
             </p>
           </motion.div>
