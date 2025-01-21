@@ -118,9 +118,8 @@ svg{ fill:#1a1a1a;}
 }
 @media (prefers-color-scheme: dark) {
   .spinner {
-    filter: invert(1) brightness(2);
+    svg{ fill:black;}
+    .dark svg {fill:white;}
   }
 }
 
-svg{ fill:black;}
-.dark svg {fill:white;}
