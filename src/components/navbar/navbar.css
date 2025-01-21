@@ -8,8 +8,13 @@
   --text-color: #ffffff;
 }
 
-svg{ fill:#1a1a1a;}
-.dark svg {fill:#ffffff;}
+img.dark-mode-icon {
+  filter: invert(1);
+}
+
+[data-theme='dark'] img.dark-mode-icon {
+  filter: invert(0);
+}
 
 .navbar {
   background-color: var(--bg-color);
