@@ -1,8 +1,15 @@
 #### Dev Test Project with the scope of creating a Light and Dark Mode based on NPM with React with SVGs
 
+#### Setup
+- git clone
+- nvm 22
+- npm install --force
+- npm start
+- done
+
 #### Live Demo 
 
-http://108.61.178.237:3000
+- http://108.61.178.237:3000
 
 #### ScreenShot Dark Mode
 ![image](https://github.com/user-attachments/assets/cab91e34-0c1e-4ad4-8fe9-12d3f036959a)
