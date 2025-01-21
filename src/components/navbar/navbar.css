@@ -111,9 +111,14 @@ svg{ fill:#1a1a1a;}
   margin-left: 50px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 992px ) {
   .order {
     order: -1;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .spinner {
+    filter: invert(1) brightness(2);
   }
 }
 
