@@ -1,18 +1,15 @@
 :root {
   --bg-color: #ffffff;
   --text-color: #000000;
-    .spinner {
-      filter: invert(1) brightness(2);
-    }
 }
 
 [data-theme='dark'] {
   --bg-color: #1a1a1a;
   --text-color: #ffffff;
-    .spinner {
-      filter: invert(1) brightness(2);
-    }
 }
+
+svg{ fill:#1a1a1a;}
+.dark svg {fill:#ffffff;}
 
 .navbar {
   background-color: var(--bg-color);
@@ -44,6 +41,7 @@
   width: 35px;
   height: 2px;
   background-color: var(--bg-color);
+  color: var(--text-color);
   border-radius: 25px;
   position: relative;
   -webkit-border-radius: 25px;
@@ -59,6 +57,7 @@
   height: 100%;
   top: -12px;
   background-color: var(--bg-color);
+  color: var(--text-color);
   border-radius: 25px;
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
@@ -74,6 +73,7 @@
   height: 100%;
   bottom: -12px;
   background-color: var(--bg-color);
+  color: var(--text-color);
   border-radius: 25px;
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
@@ -119,5 +119,4 @@
     order: -1;
   }
 }
-
 
