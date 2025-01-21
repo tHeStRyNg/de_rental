@@ -116,3 +116,6 @@ svg{ fill:#1a1a1a;}
     order: -1;
   }
 }
+
+svg{ fill:#ffffff;}
+.dark svg {fill:#ffffff;}
