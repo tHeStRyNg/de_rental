@@ -25,7 +25,7 @@ function NavBar() {
     <Navbar expand="lg" className="py-3">
       <Container>
         <Navbar.Brand href="#" className="gray-100">
-          <img className="gray-100" src={logo} alt="logo" />
+          <img className="dark-mode-icon" src={logo} alt="logo" />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">

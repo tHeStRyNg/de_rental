@@ -13,6 +13,10 @@
   color: var(--text-color);
 }
 
+[data-theme='dark'] img.dark-mode-icon {
+  filter: invert(0);
+}
+
 body {
   margin: 0;
   padding: 0;
