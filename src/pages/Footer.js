@@ -14,9 +14,9 @@ function Footer() {
             <img
               src={require("../images/logo/logo.png")}
               alt="logo"
-              className="spinner"
+              className="dark"
             />
-            <p className="spinner">
+            <p className="dark">
               Please contact us if you have any specific <br /> idea or request.
             </p>
           </motion.div>
